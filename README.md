@@ -9,13 +9,10 @@ A MESMA LÓGICA DE FUNCIONAMENTO SE APLICA AOS VENDEDORES!!!!
 
 # LINGUAGENS USADAS
 
-    1º HTML/CSS para o Front End
+    1º PHP para o Back End e comunicação com o banco de dados
 
-    2º PHP para o Back End e comunicação com o banco de dados
+    2º MySQL via phpmyadmin e XAMPP para criar,consultar,alterar e excluir registros
 
-    3º MySQL via phpmyadmin e XAMPP para criar,consultar,alterar e excluir registros
-
-    4º BÔNUS!!! Servidor localhost
 
 # AUTORES
 
